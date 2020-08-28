@@ -1,0 +1,156 @@
+# Profile of Amit Kumar Mund
+
+## About Me:
+
+- Quote I believe:
+	- Learning stops, when we believe we know everything. Learning life time process. The more I learn, the more I come to know, what else I am missing. 
+	- Following is the best I can consider myself out of 10, knowing there still lots to learn.
+	- I would request to the interview to evaluate and hope the interview can see how to make use of the Skills and know how to help me on my missing one.
+
+- Skills:
+	- Linux Administion: 7
+	- Bash Scripting: 6
+	- Golang: 5
+	- Docker: 6
+	- Nagios Moniroing: 6
+	- Consul Monitoring: 5
+	- K8s: 5
+	- Prometheus: 5
+	- ELK: 5
+	- Splunk: 5
+	- Oracle DB: 4
+	- Cassandra: 6
+	- Apache HTTP Server: 5
+	- Jenkins: 5
+	- Hadoop: 4
+	- Ansible: 6
+
+	
+## About the Companies that I have worked
+
+- Company: Human Base India
+	- Designation: System Administrator
+	- Start Date: Nov-2004
+	- End Date:	Oct-2005
+	- Responsibilities:
+		- Installing of Linux and Windows.
+		- Configuring email and networking.
+		- Administering of these environments.
+	- Any Interesting Implemented or Learned:
+		- Understading towards Application Servers.
+
+
+- Company: Network Solutions (An IBM Company). Worked for "Sasken Communication Technologies"
+	- Designation: System Administrator
+	- Start Date: Nov-2005
+	- End Date: July-2007
+	- Responsibilities:
+		- Installing, administering and managing Linux servers.
+		- Troubleshooting NFS, FTP, Disk & Performance issues on Linux.
+		- Automating basic Linux tasks.
+		- Started understanding on Licensing server, Version Control System.
+	- Any Interesting Implemented or Learned:
+		- Masking MAC address, using SMAC
+		- Understing and Using of Wireshark and knowing how we can get Password from FTP Session.
+		- Bit more understanding towards Network Packet.
+		- Implemented on PGP, and underanding of Security.
+
+
+- Company: CGI Information Systems & Management Consultants
+	- Designation: Technical Support Engineer
+	- Start Date: July-2007
+	- End Date: Nov-2008
+	- Responsibilities:
+		- Deployment of Java Applications.
+		- Working of Java Build and Deployment.
+		- Administering and managing Linux Servers.
+		- Deploying the Java Application on BAE-Application server.
+	- Any Interesting Implemented or Learned:
+		- Went CGI's headquarters and Exposed to work with Client.
+		- Automated Backup of Applications.
+
+
+- Company: Amazon Development Center Private Limited
+	- Designation: Systems Engineer
+	- Start Date: Dec-2008
+	- End Date: June-2010
+	- Responsibilities:
+		- Taking care of Amazon.com and its Client like Target.
+		- Deployment of around 10000 servers across multiple environemnts.
+		- Setting up new monitoring of these 10000 servers and working on issues these issues.
+		- Strace testing (Apache Benchmark) and checking for Memory leakage.
+	- Any Interesting Implemented or Learned:
+		- Learned how to deal with large number of System
+		- Understand of Event handeling in the monitoring.
+
+
+- Company: Yahoo Software Development India Private Limited
+	- Designation: Technical Lead
+	- Start Date: Aug–2010
+	- End Date: Dec-2011
+	- Responsibilities:
+		- Worked for Website SE Team Keeping the yahoo properties up and running
+		- Administering and managing Linux Servers.
+		- Troubleshooting Performance and process issues on OS, DB and Applications.
+		- Configuring monitoring for Nagios and writing new check scripts.
+	- Any Interesting Implemented or Learned:
+		- Understanding of CDN
+
+
+- Company: Jivox
+	- Designation: Technical Lead
+	- Start Date: Dec–2011
+	- End Date: Aug-2014
+	- Responsibilities:
+		- Managing and Building sophisticated infrastructure monitoring system for Jivox servers.
+		- Administering and managing Linux Servers hosted on AWS.
+		- Setting up and managing CM(ansible), Mediawiki, Monitoring.
+		- Java and php environment implementation
+	- Any Interesting Implemented or Learned:
+		- Automating and Building tools with bash and python with boto.
+		- Automated Monitoring of newly added system into Nagios using boto.
+		- Understanding of Becon.
+		- Installing and Configuring of Hadoop Cluster.
+		- Revied two of the publiced books. (One on Docker and One on Splunk)
+
+
+- Company: Akamai Technologies
+	- Designation: Sr SRE, Sr SRE II, Sr SRE II Lead
+	- Start Date: Aug–2014
+	- End Date: Dec-2018
+	- Responsibilities:
+		- Worked on global team build up.
+		- Hiring and Training team members along with taking care of escalation and prioritizing of tasks
+		- Work on managing monitoring infrastructure.
+		- Manage 3000+ Linux Servers, that serve control.akamai.com and its pre-prod.
+		- Monitoring and Deployment of more then 300+ Individual Backend and FE Application Container.
+		- Moved the Application from Bare matal Cloud (Azure)	
+	- Any Interesting Implemented or Learned:
+		- Lot more into Automation, Desing and Implementation.
+		- Contarization of Application.
+		- Cassandra Implementation
+
+
+- Company: McAfee
+	- Designation: Application Architect
+	- Start Date: Jan-2018
+	- End Date: Apr-2018
+	- Responsibilities:
+		- Working on Email and Web security product.
+	- Any Interesting Implemented or Learned:
+		- Learned on how the Email Security product works.
+
+
+- Company: Akamai Technologies
+	- Designation: Sr SRE II
+	- Start Date: Jun–2018
+	- End Date: Till Now
+	- Responsibilities:
+		- RCA of Escalated tickets.
+		- Design and Implementation of Montoring using Prometheus and Grafana.
+	- Any Interesting Implemented or Learned:
+		- Desinged and Implemented of Zero Downtime DB Password update.
+		- LoadKey Implementation.
+		- Jenkins Implementation of few of the regular tasks.
+		- KT on new topics to team. (Example - Security auditing, LDPRELOADER, Tracing, PortKnocking...)
+		- POC on different technogies.(Kubernatics, Consul, Vault)
